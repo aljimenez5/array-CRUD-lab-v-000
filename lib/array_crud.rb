@@ -1,8 +1,9 @@
 def create_an_empty_array
-  return empty_array = []
+  []
 end
 
 def create_an_array
+  four_elements_array = []
   
 end
 
