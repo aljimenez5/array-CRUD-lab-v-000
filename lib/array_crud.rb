@@ -3,7 +3,8 @@ def create_an_empty_array
 end
 
 def create_an_array(array, element)
-  four_elements_array = []
+  array << element
+  
   
 end
 
